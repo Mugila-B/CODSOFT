@@ -19,7 +19,7 @@ I built this project to understand how recommendation systems work and how simil
 ## 📂 Project Structure
 CODSOFT/
 └── Task3_Recommendation/
-├── recommendation.py
+├── app.py
 ├── requirements.txt
 └── README.md
 
